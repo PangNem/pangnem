@@ -6,8 +6,11 @@ Backend Developer
 
 - Node.js
 - TypeScript
+- Nest
+- Express
 
 🌱 I’m currently learning ...
 
 - Spring Boot
 - Test Code / TDD
+- Algorithm
